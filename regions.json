@@ -1,0 +1,269 @@
+{
+  "Կոտայք": [
+    {
+      "city": "Աբովյան",
+      "population": 44000,
+      "area": 11000
+    },
+    {
+      "city": "Բյուրեղավան",
+      "population": 9000,
+      "area": 4000
+    },
+    {
+      "city": "Եղվարդ",
+      "population": 11000,
+      "area": 7000
+    },
+    {
+      "city": "Ծաղկաձոր",
+      "population": 1000,
+      "area": 4000
+    },
+    {
+      "city": "Հրազդան",
+      "population": 41000,
+      "area": 152000
+    },
+    {
+      "city": "Նոր Հաճն",
+      "population": 9000,
+      "area": 2000
+    },
+    {
+      "city": "Չարենցավան",
+      "population": 20000,
+      "area": 5000
+    }
+  ],
+  "Սյունիք": [
+    {
+      "city": "Ագարակ",
+      "population": 4000,
+      "area": 2000
+    },
+    {
+      "city": "Գորիս",
+      "population": 20000,
+      "area": 8000
+    },
+    {
+      "city": "Դաստակերտ",
+      "population": 0,
+      "area": 0
+    },
+    {
+      "city": "Կապան",
+      "population": 42000,
+      "area": 36000
+    },
+    {
+      "city": "Մեղրի",
+      "population": 4000,
+      "area": 3000
+    },
+    {
+      "city": "Սիսիան",
+      "population": 14000,
+      "area": 9000
+    },
+    {
+      "city": "Քաջարան",
+      "population": 7000,
+      "area": 2000
+    }
+  ],
+  "Լոռի": [
+    {
+      "city": "Ալավերդի",
+      "population": 13000,
+      "area": 18000
+    },
+    {
+      "city": "Ախթալա",
+      "population": 2000,
+      "area": 4000
+    },
+    {
+      "city": "Թումանյան",
+      "population": 1000,
+      "area": 1000
+    },
+    {
+      "city": "Շամլուղ",
+      "population": 0,
+      "area": 3000
+    },
+    {
+      "city": "Սպիտակ",
+      "population": 13000,
+      "area": 5000
+    },
+    {
+      "city": "Ստեփանավան",
+      "population": 13000,
+      "area": 14000
+    },
+    {
+      "city": "Վանաձոր",
+      "population": 82000,
+      "area": 32000
+    },
+    {
+      "city": "Տաշիր",
+      "population": 7000,
+      "area": 5000
+    }
+  ],
+  "Տավուշ": [
+    {
+      "city": "Այրում",
+      "population": 2000,
+      "area": 1000
+    },
+    {
+      "city": "Բերդ",
+      "population": 7000,
+      "area": 3000
+    },
+    {
+      "city": "Դիլիջան",
+      "population": 23000,
+      "area": 13000
+    },
+    {
+      "city": "Իջևան",
+      "population": 20000,
+      "area": 4000
+    },
+    {
+      "city": "Նոյեմբերյան",
+      "population": 5000,
+      "area": 3000
+    }
+  ],
+  "Արագածոտն": [
+    {
+      "city": "Աշտարակ",
+      "population": 19000,
+      "area": 7000
+    },
+    {
+      "city": "Ապարան",
+      "population": 6000,
+      "area": 3000
+    },
+    {
+      "city": "Թալին",
+      "population": 5000,
+      "area": 7000
+    }
+  ],
+  "Արարատ": [
+    {
+      "city": "Արարատ",
+      "population": 20000,
+      "area": 6000
+    },
+    {
+      "city": "Արտաշատ",
+      "population": 21000,
+      "area": 12000
+    },
+    {
+      "city": "Մասիս",
+      "population": 20000,
+      "area": 5000
+    },
+    {
+      "city": "Վեդի",
+      "population": 11000,
+      "area": 5000
+    }
+  ],
+  "Շիրակ": [
+    {
+      "city": "Արթիկ",
+      "population": 18000,
+      "area": 9000
+    },
+    {
+      "city": "Գյումրի",
+      "population": 118000,
+      "area": 54000
+    },
+    {
+      "city": "Մարալիկ",
+      "population": 5000,
+      "area": 4000
+    }
+  ],
+  "Արմավիր": [
+    {
+      "city": "Արմավիր",
+      "population": 29000,
+      "area": 8000
+    },
+    {
+      "city": "Վաղարշապատ",
+      "population": 46000,
+      "area": 40000
+    },
+    {
+      "city": "Մեծամոր",
+      "population": 9000,
+      "area": 4000
+    }
+  ],
+  "Գեղարքունիք": [
+    {
+      "city": "Գավառ",
+      "population": 19000,
+      "area": 16000
+    },
+    {
+      "city": "Ճամբարակ",
+      "population": 5000,
+      "area": 6000
+    },
+    {
+      "city": "Մարտունի",
+      "population": 12000,
+      "area": 10000
+    },
+    {
+      "city": "Սևան",
+      "population": 20000,
+      "area": 8000
+    },
+    {
+      "city": "Վարդենիս",
+      "population": 12000,
+      "area": 10000
+    }
+  ],
+  "Վայոց ձոր": [
+    {
+      "city": "Եղեգնաձոր",
+      "population": 7000,
+      "area": 6000
+    },
+    {
+      "city": "Ջերմուկ",
+      "population": 5000,
+      "area": 5000
+    },
+    {
+      "city": "Վայք",
+      "population": 5000,
+      "area": 5000
+    }
+  ],
+  "Երևան": [
+    {
+      "city": "Երևան",
+      "population": 1071000,
+      "area": 223000
+    }
+  ]
+}
